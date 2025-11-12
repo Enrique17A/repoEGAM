@@ -50,5 +50,7 @@ int main(void){
     }while (contador < 1);
     printf("Se salió del bucle do while \n");
 
+    printf("Es una nueva linea \n");
 
+    printf("nuevo");
 }
