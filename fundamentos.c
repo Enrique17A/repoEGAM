@@ -52,5 +52,7 @@ int main(void){
 
     printf("Es una nueva linea \n");
 
-    printf("nuevo");
+    printf("nuevo \n");
+
+    printf("nueva línea desde laptop \n");
 }
